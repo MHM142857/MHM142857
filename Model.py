@@ -1,7 +1,6 @@
 from enum import Enum
 from typing import *
 
-
 class Ant:
     antType: int
     antTeam: int
