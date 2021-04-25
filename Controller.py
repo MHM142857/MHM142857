@@ -10,7 +10,6 @@ from Network import Network
 import json
 import time
 
-
 class Controller:
     def __init__(self):
         self.sending_flag = True
